@@ -4,4 +4,4 @@ Assigment
 2. Queues (https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
 3. Collinear Points (https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
 4. 8 Puzzle (https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)
-5. KD-Trees (https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php)
+5. Kd-Trees (https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php)
